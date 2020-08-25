@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1512359863 source:c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\item.cpp
+	"Item.hpp"
+
+1512359134 c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\item.hpp
+	<iostream>
+
+1512358259 source:c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\main.cpp
+	<iostream>
+	"Player.hpp"
+	"Space.hpp"
+	"Item.hpp"
+	"Room.hpp"
+	"Hatch.hpp"
+	"Pod.hpp"
+
+1512359841 source:c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\player.cpp
+	"Player.hpp"
+
+1512359074 c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\player.hpp
+	"Item.hpp"
+	"Space.hpp"
+	<vector>
+	<memory>
+
+1512358923 c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\space.hpp
+	"Item.hpp"
+	<iostream>
+	<memory>
+	<cstdlib>
+	<vector>
+
+1512359622 source:c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\space.cpp
+	"Space.hpp"
+
+1512359911 source:c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\room.cpp
+	"Room.hpp"
+
+1512359143 c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\room.hpp
+	"Space.hpp"
+
+1512359763 source:c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\hatch.cpp
+	"Hatch.hpp"
+
+1512358967 c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\hatch.hpp
+	"Space.hpp"
+
+1512358955 c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\pod.hpp
+	"Space.hpp"
+
+1512359713 source:c:\users\joykm\desktop\osuonlinecs\cs162\finalproject\finalproject\pod.cpp
+	"Pod.hpp"
+
